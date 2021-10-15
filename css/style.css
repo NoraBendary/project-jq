@@ -1,0 +1,18 @@
+.home{
+    width: 1px;
+    height: 1px;
+    background-color: black;
+    color: cornsilk;
+    
+
+}
+
+.card{
+    background-color: #333;
+    display: none;
+}
+
+h1{
+    
+     display: none;
+}
